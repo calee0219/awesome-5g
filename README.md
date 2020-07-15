@@ -41,6 +41,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ## RAN
 
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/): The project implements 4G LTE and 5G Radio Access Network. Both NodeB and User Equipment (UE) are implemented.
+- [ue-ran-sim](https://github.com/aligungr/ue-ran-sim): 5G UE/RAN Simulator.
 
 ## Single NFs
 
