@@ -4,22 +4,19 @@
 
 A curated list of awesome 5G frameworks, libraries, software and resources.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome).
-
 ## Contents
 
 <!--ts-->
-   * [Awesome 5G](#awesome-5g)
-      * [Contents](#contents)
-      * [Platforms](#platforms)
-      * [Core Network](#core-network)
-      * [RAN](#ran)
-      * [Single NFs](#single-nfs)
-      * [Edge/Applications](#edgeapplications)
-      * [Network Slice](#network-slice)
-      * [Libraries](#libraries)
-      * [Tools](#tools)
-      * [Documents](#documents)
+    * [Contents](#contents)
+    * [Platforms](#platforms)
+    * [Core Network](#core-network)
+    * [RAN](#ran)
+    * [Single NFs](#single-nfs)
+    * [Edge/Applications](#edgeapplications)
+    * [Network Slice](#network-slice)
+    * [Libraries](#libraries)
+    * [Tools](#tools)
+    * [Documents](#documents)
 
 <!-- Added by: calee, at: Wed Jul 15 13:52:35 UTC 2020 -->
 
