@@ -1,6 +1,7 @@
 # Awesome 5G
 
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://travis-ci.org/calee0219/awesome-5g.svg)](https://travis-ci.org/calee0219/awesome-5g)
 
 A curated list of awesome 5G frameworks, libraries, software and resources.
 
