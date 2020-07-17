@@ -87,7 +87,7 @@ A curated list of awesome 5G frameworks, libraries, software and resources.
 
 - [5GC_APIs](https://github.com/jdegre/5GC_APIs) - RESTful APIs of main Network Functions in the 3GPP 5G Core Network.
 - [5GC build](https://github.com/H21lab/5GC_build) - Project to use OpenAPI generators to build code from 5GC_API.
-- [5g-trace-visualizer](https://github.com/telekom/5g-trace-visualizer) - Tools to generate call flows from pcap.
+- [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer) - Tools to generate call flows from pcap.
 
 ## Documents
 
