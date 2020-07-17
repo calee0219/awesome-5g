@@ -94,5 +94,4 @@ A curated list of awesome 5G frameworks, libraries, software and resources.
 
 ## Documents
 
-- [3GPP](https://www.3gpp.org/) - 3GPP official site
 - [3gpp-documentation](https://github.com/emanuelfreitas/3gpp-documentation) - 3GPP Documentation.
