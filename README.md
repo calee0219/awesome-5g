@@ -10,7 +10,6 @@ A curated list of awesome 5G frameworks, libraries, software and resources.
 ## Contents
 
 <!--ts-->
-* [Contents](#contents)
 * [SIM](#sim)
 * [RAN](#ran)
 * [Core Network](#core-network)
