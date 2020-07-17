@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/calee0219/awesome-5g.svg?branch=master)](https://travis-ci.org/calee0219/awesome-5g)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/calee0219/awesome-5g/pulls)
 
-[![5G](https://www.3gpp.org/images/5G-logo_250px.jpg)](https://3gpp.org)
+[![5G](https://www.3gpp.org/images/5G-logo_250px.jpg)](https://www.3gpp.org/)
 
 A curated list of awesome 5G frameworks, libraries, software and resources.
 
