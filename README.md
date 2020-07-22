@@ -50,6 +50,7 @@ A curated list of awesome 5G frameworks, libraries, software and resources.
 ## NFs
 
 - [vpp](https://github.com/travelping/vpp) - 5G User Plane Function (UPF) based on VPP.
+- [UPF-EPC](https://github.com/omec-project/upf-epc) - 4G/5G Mobile core user plane.
 
 ## Edge/Applications
 
