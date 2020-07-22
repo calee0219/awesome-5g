@@ -61,6 +61,10 @@ A curated list of awesome 5G frameworks, libraries, software and resources.
 
 - [katana-slice_manager](https://github.com/medianetlab/katana-slice_manager) - 5G Network E2E Slice Manager.
 
+### IoT
+
+- [Open MTC](https://github.com/openMTC/openMTC) - OpenMTC is a reference implementation of the oneM2M standard, for conducting applied research and developing innovative M2M and IoT applications.
+
 ## Protocols
 
 ### GTP
