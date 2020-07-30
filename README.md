@@ -32,6 +32,7 @@ A curated list of awesome 5G frameworks, libraries, software and resources.
 
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/) - The project implements 4G LTE and 5G Radio Access Network. Both NodeB and User Equipment (UE) are implemented.
 - [ue-ran-sim](https://github.com/aligungr/ue-ran-sim) - 5G UE/RAN Simulator.
+- [gnbsim](https://github.com/hhorai/gnbsim) - gnbsim is a 5G SA gNB/UE simulator for testing 5GC system.
 
 ## Core Network
 
