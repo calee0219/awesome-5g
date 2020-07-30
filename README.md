@@ -45,7 +45,7 @@ A curated list of awesome 5G frameworks, libraries, software and resources.
 
 - [docker_open5gs with IMS](https://github.com/miaoski/docker_open5gs) - Docker files to run open5gs in a docker.
 - [free5gmano](https://github.com/free5gmano/free5gmano) - This is a 5G MANO (Management and Network Orchestration) project developed that refer to 3GPP TS 28.531, TS 28.532 Release 15 (R15).
-- [Magma](https://github.com/facebookincubator/magma) - Platform for building access networks and modular network services.
+- [Magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
 - [x-k8s](https://github.com/ITRI-ICL-Peregrine/x-k8s) - ITRI's Kubernetes platform for 5G Edge VNF.
 
 ## NFs
