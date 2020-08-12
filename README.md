@@ -20,6 +20,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 * [Edge/Applications](#edgeapplications)
 * [Protocols](#protocols)
 * [Tools](#tools)
+* [Research](#research)
 * [Documents](#documents)
 
 <!-- Added by: calee, at: 2020年 7月17日 週五 13時39分28秒 CST -->
@@ -46,6 +47,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## Platforms
 
+- [5G-EmPOWER](https://github.com/5g-empower/empower-runtime) - 5G-EmPOWER is a mobile network operating system designed for heterogeneous wireless/mobile networks.
 - [DANM](https://github.com/nokia/danm) - TelCo grade network management in a Kubernetes cluster.
 - [docker_open5gs with IMS](https://github.com/miaoski/docker_open5gs) - Docker files to run open5gs in a docker.
 - [free5gmano](https://github.com/free5gmano/free5gmano) - This is a 5G MANO (Management and Network Orchestration) project developed that refer to 3GPP TS 28.531, TS 28.532 Release 15 (R15).
@@ -77,12 +79,9 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ### GTP
 
+- [dpdk_gtp_gateway](https://github.com/edingroot/dpdk_gtp_gateway) - DPDK based GTPv1 gateway.
 - [gtp5g](https://github.com/PrinzOwO/gtp5g) - Linux kernel module 5G GTP-U.
 - [go-gtp](https://github.com/wmnsk/go-gtp) - GTP(GPRS Tunneling Protocol) implemented in pure Golang.
-
-### SBI
-
-- [SBA-gRPC-5G](https://github.com/iithnewslab/SBA-gRPC-5G) - This repository is the proof of concept for Service Based Architecture of 5G using gRPC.
 
 ### SCTP
 
@@ -102,6 +101,13 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [5GC_APIs](https://github.com/jdegre/5GC_APIs) - RESTful APIs of main Network Functions in the 3GPP 5G Core Network.
 - [5GC build](https://github.com/H21lab/5GC_build) - Project to use OpenAPI generators to build code from 5GC_API.
 - [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer) - Tools to generate call flows from pcap.
+- [New Radio 5G Physical layer utilities](https://github.com/prtkmishra/New_Radio_5G_Utils) - This repository contains Physical layer utilities based on 3GPP specs for NR 5G.
+
+## Research
+
+- [5G-Core-gRPC-SBA](https://github.com/iithnewslab/SBA-gRPC-5G) - This repository is the proof of concept for Service Based Architecture of 5G using gRPC.
+- [Beamformed Fingerprint Learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions - with high accuracy and energy efficiency.
+- [Sub-6 Predicts mmWave Beam-forming Vectors](https://github.com/malrabeiah/Sub6-Preds-mmWave) - Using sub-6 GHz channels to predict mmWave beams and link blockage.
 
 ## Documents
 
