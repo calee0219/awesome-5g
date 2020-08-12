@@ -106,3 +106,4 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 ## Documents
 
 - [3gpp-documentation](https://github.com/emanuelfreitas/3gpp-documentation) - 3GPP Documentation.
+- [5G Mobile Networks: A Systems Approach](https://github.com/SystemsApproach/5G) - Open source eBook for 5G system.
