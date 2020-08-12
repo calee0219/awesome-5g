@@ -40,6 +40,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## Core Network
 
+- [5GCore](https://github.com/dukl/5gCore) - 5G system writen in python.
 - [free5GC](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15.
 - [Internship-5GCN](https://github.com/bubblecounter/Internship-5GCN) - Implementation of RESTful Web Services between 5G Control Plane Nodes(AMF,NRF,SMF,UDM).
 - [OAI-CN](https://github.com/openairinterface) - This project implements 4G LTE Evolved Packet Core (EPC) and 5G Core Network.
@@ -98,15 +99,18 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## Tools
 
+- [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer) - Tools to generate call flows from pcap.
 - [5GC_APIs](https://github.com/jdegre/5GC_APIs) - RESTful APIs of main Network Functions in the 3GPP 5G Core Network.
 - [5GC build](https://github.com/H21lab/5GC_build) - Project to use OpenAPI generators to build code from 5GC_API.
-- [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer) - Tools to generate call flows from pcap.
+- [5g ldpc codes](https://github.com/xiaoshaoning/5g-ldpc) - 5g ldpc codes.
 - [New Radio 5G Physical layer utilities](https://github.com/prtkmishra/New_Radio_5G_Utils) - This repository contains Physical layer utilities based on 3GPP specs for NR 5G.
 
 ## Research
 
 - [5G-Core-gRPC-SBA](https://github.com/iithnewslab/SBA-gRPC-5G) - This repository is the proof of concept for Service Based Architecture of 5G using gRPC.
+- [5GMdata](https://github.com/lasseufpa/5gm-data) - Datasets and code for machine learning in 5G mmWave MIMO systems involving mobility (5GMdata).
 - [Beamformed Fingerprint Learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions - with high accuracy and energy efficiency.
+- [SliceSim](https://github.com/cerob/slicesim) - 5G Network Slicing Simulation.
 - [Sub-6 Predicts mmWave Beam-forming Vectors](https://github.com/malrabeiah/Sub6-Preds-mmWave) - Using sub-6 GHz channels to predict mmWave beams and link blockage.
 
 ## Documents
