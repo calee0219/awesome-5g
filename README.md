@@ -88,6 +88,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [ishidawataru/sctp](https://github.com/ishidawataru/sctp) - SCTP library for the Go programming language.
 - [pion/sctp](https://github.com/pion/sctp) - A Go implementation of SCTP.
+- [usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack.
 
 ### PFCP
 
