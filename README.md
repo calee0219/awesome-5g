@@ -7,6 +7,8 @@
 
 A curated list of awesome 5G frameworks, libraries, software and resources.
 
+Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more general telco resources including EPS, UMTS, and GSM's system or project.
+
 ## Contents
 
 <!--ts-->
