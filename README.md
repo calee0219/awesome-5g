@@ -93,6 +93,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 ### PFCP
 
 - [go-pfcp](https://github.com/wmnsk/go-pfcp) - PFCP(Packet Forwarding Control Protocol) implementation in Golang.
+- [pfcplib](https://github.com/travelping/pfcplib) - Erlang library for encoding and decoding Packet Forwarding Control Protocol (PFCP) frames.
 
 ### Diameter
 
