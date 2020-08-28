@@ -76,6 +76,10 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [Open MTC](https://github.com/openMTC/openMTC) - OpenMTC is a reference implementation of the oneM2M standard, for conducting applied research and developing innovative M2M and IoT applications.
 
+### Applications
+
+- [Kamailio](https://github.com/kamailio/kamailio) - The Open Source SIP Server for large VoIP and real-time communication platforms.
+
 ## Protocols
 
 ### GTP
