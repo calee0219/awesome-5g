@@ -30,6 +30,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 ## SIM
 
 - [pysim](https://github.com/osmocom/pysim) - A python tool to program SIMs.
+- [sysmo-usim-tool](https://git.sysmocom.de/sysmo-usim-tool/) - Tool to (re)configure the sysmoUSIM-SJS1 cards.
 
 ## RAN
 
