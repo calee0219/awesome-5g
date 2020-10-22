@@ -51,6 +51,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [5G-EmPOWER](https://github.com/5g-empower/empower-runtime) - 5G-EmPOWER is a mobile network operating system designed for heterogeneous wireless/mobile networks.
 - [DANM](https://github.com/nokia/danm) - TelCo grade network management in a Kubernetes cluster.
+- [free5gc-k8s](https://github.com/sumichaaan/free5gc-k8s) - Dockerized Free5gc and Kubernetes Manifests.
 - [docker_open5gs with IMS](https://github.com/miaoski/docker_open5gs) - Docker files to run open5gs in a docker.
 - [free5gmano](https://github.com/free5gmano/free5gmano) - This is a 5G MANO (Management and Network Orchestration) project developed that refer to 3GPP TS 28.531, TS 28.532 Release 15 (R15).
 - [Magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
