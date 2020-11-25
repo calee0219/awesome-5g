@@ -41,7 +41,6 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [gnbsim](https://github.com/hhorai/gnbsim) - gnbsim is a 5G SA gNB/UE simulator for testing 5GC system.
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/) - The project implements 4G LTE and 5G Radio Access Network. Both NodeB and User Equipment (UE) are implemented.
-- [Software gNB](https://github.com/Srajdax/gnb) - A Software gNB for free5GC.
 - [UERANSIM](https://github.com/aligungr/UERANSIM) - 5G UE/RAN Simulator.
 
 ## Core Network
