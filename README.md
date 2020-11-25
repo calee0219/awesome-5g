@@ -13,6 +13,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 <!--ts-->
 * [SIM](#sim)
+* [UE/CPE](#uecpe)
 * [RAN](#ran)
 * [Core Network](#core-network)
 * [Platforms](#platforms)
@@ -31,6 +32,10 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [pysim](https://github.com/osmocom/pysim) - A python tool to program SIMs.
 - [sysmo-usim-tool](https://git.sysmocom.de/sysmo-usim-tool/) - Tool to (re)configure the sysmoUSIM-SJS1 cards.
+
+## UE/CPE
+
+- [UE-IoT-non3GPP](https://github.com/my5G/UE-IoT-non3GPP) - Implement a UE for untrusted non3GPP access to 5GS.
 
 ## RAN
 
@@ -51,9 +56,10 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [5G-EmPOWER](https://github.com/5g-empower/empower-runtime) - 5G-EmPOWER is a mobile network operating system designed for heterogeneous wireless/mobile networks.
 - [DANM](https://github.com/nokia/danm) - TelCo grade network management in a Kubernetes cluster.
-- [free5gc-k8s](https://github.com/sumichaaan/free5gc-k8s) - Dockerized Free5gc and Kubernetes Manifests.
 - [docker_open5gs with IMS](https://github.com/miaoski/docker_open5gs) - Docker files to run open5gs in a docker.
+- [free5gc-k8s](https://github.com/sumichaaan/free5gc-k8s) - Dockerized Free5gc and Kubernetes Manifests.
 - [free5gmano](https://github.com/free5gmano/free5gmano) - This is a 5G MANO (Management and Network Orchestration) project developed that refer to 3GPP TS 28.531, TS 28.532 Release 15 (R15).
+- [my5G-core](https://github.com/my5G/my5G-core) - Currently, my5G-core is a fork of the free5GC project, with some extensions to facilitate the deployment.
 - [Magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
 - [ONAP](https://www.onap.org/) - Open Network Automation Platform.
 - [Open Source MANO](https://osm.etsi.org/) - OSM is delivering an open source Management and Orchestration (MANO) stack aligned with ETSI NFV Information Models.
@@ -77,6 +83,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 ### IoT
 
 - [Open MTC](https://github.com/openMTC/openMTC) - OpenMTC is a reference implementation of the oneM2M standard, for conducting applied research and developing innovative M2M and IoT applications.
+- [YoMo](https://github.com/yomorun/yomo) - Build your own IoT & Edge Realtime Computing system easily, engaging 5G technology.
 
 ### Applications
 
