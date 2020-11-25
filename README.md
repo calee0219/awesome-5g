@@ -67,7 +67,6 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## NFs
 
-- [dpdk_gtp_gateway](https://github.com/edingroot/dpdk_gtp_gateway) - DPDK based GTPv1 gateway.
 - [UPF-EPC](https://github.com/omec-project/upf-epc) - 4G/5G Mobile core user plane.
 - [upg-vpp](https://github.com/travelping/upg-vpp) - User Plane Gateway (UPG) based on VPP.
 - [vpp](https://github.com/travelping/vpp) - 5G User Plane Function (UPF) based on VPP.
