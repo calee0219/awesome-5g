@@ -97,6 +97,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [dpdk_gtp_gateway](https://github.com/edingroot/dpdk_gtp_gateway) - DPDK based GTPv1 gateway.
 - [gtp5g](https://github.com/PrinzOwO/gtp5g) - Linux kernel module 5G GTP-U.
 - [gtplib](https://github.com/travelping/gtplib) - Erlang GTPv1/GTPv2 library.
+- [gtpv2](https://github.com/blorticus/gtpv2) - GPRS Tunneling Protocol Library for golang.
 - [go-gtp](https://github.com/wmnsk/go-gtp) - GTP(GPRS Tunneling Protocol) implemented in pure Golang.
 
 ### SCTP
