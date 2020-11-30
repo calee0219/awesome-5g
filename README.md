@@ -106,6 +106,10 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [pion/sctp](https://github.com/pion/sctp) - A Go implementation of SCTP.
 - [usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack.
 
+### DTLS
+
+- [pion/dtls](https://github.com/pion/dtls) - DTLS 1.2 Server/Client implementation for Go.
+
 ### PFCP
 
 - [go-pfcp](https://github.com/wmnsk/go-pfcp) - PFCP(Packet Forwarding Control Protocol) implementation in Golang.
