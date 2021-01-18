@@ -54,6 +54,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 ## Platforms
 
 - [5G-EmPOWER](https://github.com/5g-empower/empower-runtime) - 5G-EmPOWER is a mobile network operating system designed for heterogeneous wireless/mobile networks.
+- [CNF Testbed](https://github.com/cncf/cnf-testbed) - Cloud-native Network Function (CNF) Testbed.
 - [DANM](https://github.com/nokia/danm) - TelCo grade network management in a Kubernetes cluster.
 - [docker_open5gs with IMS](https://github.com/miaoski/docker_open5gs) - Docker files to run open5gs in a docker.
 - [free5gc-k8s](https://github.com/sumichaaan/free5gc-k8s) - Dockerized Free5gc and Kubernetes Manifests.
@@ -63,6 +64,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [Magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
 - [ONAP](https://www.onap.org/) - Open Network Automation Platform.
 - [Open Source MANO](https://osm.etsi.org/) - OSM is delivering an open source Management and Orchestration (MANO) stack aligned with ETSI NFV Information Models.
+- [opnfv](https://www.opnfv.org/) - Open Platform for NFV (OPNFV) facilitates the development and evolution of NFV components across various open source ecosystems.
 - [x-k8s](https://github.com/ITRI-ICL-Peregrine/x-k8s) - ITRI's Kubernetes platform for 5G Edge VNF.
 
 ## NFs
