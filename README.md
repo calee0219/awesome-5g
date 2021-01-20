@@ -71,8 +71,9 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [UPF-EPC](https://github.com/omec-project/upf-epc) - 4G/5G Mobile core user plane.
 - [upg-vpp](https://github.com/travelping/upg-vpp) - User Plane Gateway (UPG) based on VPP.
-- [vpp](https://github.com/travelping/vpp) - 5G User Plane Function (UPF) based on VPP.
 - [upf-xdp](https://github.com/801room/upf-xdp) - It is just a toy, but it shows the possibility of using xdp to implement 5g upf.
+- [upf_p4_poc](https://github.com/801room/upf_p4_poc) - This project is a proof of concept for 5g upf based on p4.
+- [vpp](https://github.com/travelping/vpp) - 5G User Plane Function (UPF) based on VPP.
 
 ## Edge/Applications
 
