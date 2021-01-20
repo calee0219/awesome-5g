@@ -39,8 +39,10 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## RAN
 
+- [free5GRAN](https://github.com/free5G/free5GRAN) - free5GRAN is an open-source 5G RAN stack.
 - [gnbsim](https://github.com/hhorai/gnbsim) - gnbsim is a 5G SA gNB/UE simulator for testing 5GC system.
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/) - The project implements 4G LTE and 5G Radio Access Network. Both NodeB and User Equipment (UE) are implemented.
+- [pfm](https://github.com/arv-sajeev/pfm) - DPDK implementation of a prototype on gNB-CU-UP.
 - [UERANSIM](https://github.com/aligungr/UERANSIM) - 5G UE/RAN Simulator.
 
 ## Core Network
@@ -109,6 +111,14 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [ishidawataru/sctp](https://github.com/ishidawataru/sctp) - SCTP library for the Go programming language.
 - [pion/sctp](https://github.com/pion/sctp) - A Go implementation of SCTP.
 - [usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack.
+
+### NGAP
+
+- [ngap](https://github.com/haodhh/ngap) - Encode Decode NGAP for 5G.
+
+### NAS
+
+- [NAS-5GS](https://github.com/hzane/nas-5gs) - Routines for Non-Access-Stratum (NAS) protocol for NAS-NR(5GS).
 
 ### DTLS
 
