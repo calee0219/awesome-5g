@@ -35,7 +35,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## UE/CPE
 
-- [UE-IoT-non3GPP](https://github.com/my5G/UE-IoT-non3GPP) - Implement a UE for untrusted non3GPP access to 5GS.
+- [my5G-non3GPP-access](https://github.com/my5G/my5G-non3GPP-access) - Implement a UE for untrusted non3GPP access to 5GCN.
 
 ## RAN
 
