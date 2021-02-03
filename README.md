@@ -1,6 +1,6 @@
 # Awesome 5G [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Build Status](https://travis-ci.org/calee0219/awesome-5g.svg?branch=master)](https://travis-ci.org/calee0219/awesome-5g)
+[![Build Status](https://travis-ci.org/calee0219/awesome-5g.svg?branch=main)](https://travis-ci.org/calee0219/awesome-5g)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/calee0219/awesome-5g/pulls)
 
 [![5G](https://www.3gpp.org/images/5G-logo_250px.jpg)](https://www.3gpp.org/)
