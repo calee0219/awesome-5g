@@ -13,6 +13,7 @@ Some interested 5G related paper.
 - [Telco Cloud Platform 5G Edition Reference Architecture Guide](https://docs.vmware.com/en/VMware-Telco-Cloud-Platform-5G-Edition/1.0/telco-cloud-platform-5G-edition-reference-architecture.pdf) - VMWare
 - [Kubernetes has a key role to play as the 5G network becomes an application running on cloud infrastructure](https://www.analysysmason.com/research/content/comments/kubernetes-5G-application-rma16/) - Caroline Chappell, Michela Venturelli
 - [Kubernetes Native Infrastructure and Operator Framework for 5G Edge Cloud Computing](https://events19.linuxfoundation.org/wp-content/uploads/2019/07/OSS2019-HS-k8sNativeInfra-OperatorFor5Gedge.pdf) - Red Hat
+- [XDP - challenges and future work](http://vger.kernel.org/lpc_net2018_talks/presentation-lpc2018-xdp-future.pdf) - Jesper Dangaard Brouer (Red Hat), Toke Høiland-Jørgensen (Karlstad University)
 
 ## Idea
 
