@@ -137,6 +137,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer) - Tools to generate call flows from pcap.
 - [5GC_APIs](https://github.com/jdegre/5GC_APIs) - RESTful APIs of main Network Functions in the 3GPP 5G Core Network.
+- [5G_ciphered_NAS_decipher_tool](https://github.com/jimtangshfx/5G_ciphered_NAS_decipher_tool) - A python tool to decipher/decrypt 5G ciphered NAS message and export plain 5G NAS into wireshark pcap file.
 - [5GC build](https://github.com/H21lab/5GC_build) - Project to use OpenAPI generators to build code from 5GC_API.
 - [5g ldpc codes](https://github.com/xiaoshaoning/5g-ldpc) - 5g ldpc codes.
 - [MCC_MNC](https://github.com/P1sec/MCC_MNC) - Providing accurate JSON and Python dicts about the many public information available about MNO.
