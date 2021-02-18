@@ -145,7 +145,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [MCC_MNC](https://github.com/P1sec/MCC_MNC) - Providing accurate JSON and Python dicts about the many public information available about MNO.
 - [New Radio 5G Physical layer utilities](https://github.com/prtkmishra/New_Radio_5G_Utils) - This repository contains Physical layer utilities based on 3GPP specs for NR 5G.
 - [3gpp.guru](https://3gpp.guru) - Look up 3GPP abbreviations.
-- [speX](https://github.com/CoRfr/spex-3gpp) - Accessible 3GPP specs (PDF, DOC, HTML). [Site](https://spex.cor-net.org)
+- [speX](https://github.com/CoRfr/spex-3gpp) - A WebService to deliver 3GPP specifications.
 
 ## Research
 
