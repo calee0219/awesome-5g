@@ -137,6 +137,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## Tools
 
+- [3gpp.guru](https://3gpp.guru) - Look up 3GPP abbreviations.
 - [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer) - Tools to generate call flows from pcap.
 - [5GC_APIs](https://github.com/jdegre/5GC_APIs) - RESTful APIs of main Network Functions in the 3GPP 5G Core Network.
 - [5G_ciphered_NAS_decipher_tool](https://github.com/jimtangshfx/5G_ciphered_NAS_decipher_tool) - A python tool to decipher/decrypt 5G ciphered NAS message and export plain 5G NAS into wireshark pcap file.
@@ -144,7 +145,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [5g ldpc codes](https://github.com/xiaoshaoning/5g-ldpc) - 5g ldpc codes.
 - [MCC_MNC](https://github.com/P1sec/MCC_MNC) - Providing accurate JSON and Python dicts about the many public information available about MNO.
 - [New Radio 5G Physical layer utilities](https://github.com/prtkmishra/New_Radio_5G_Utils) - This repository contains Physical layer utilities based on 3GPP specs for NR 5G.
-- [3gpp.guru](https://3gpp.guru) - Look up 3GPP abbreviations.
+- [pysim5g](https://github.com/edwardoughton/pysim5g) - Open-source techno-economic assessment framework for 5G deployment.
 - [speX](https://github.com/CoRfr/spex-3gpp) - A WebService to deliver 3GPP specifications.
 
 ## Research
