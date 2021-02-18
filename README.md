@@ -60,7 +60,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [DANM](https://github.com/nokia/danm) - TelCo grade network management in a Kubernetes cluster.
 - [docker_open5gs with IMS](https://github.com/miaoski/docker_open5gs) - Docker files to run open5gs in a docker.
 - [free5gc-k8s](https://github.com/sumichaaan/free5gc-k8s) - Dockerized Free5gc and Kubernetes Manifests.
-- [free5gc-cli](https://github.com/srajdax/free5gc-cli) - An interactive CLI for free5gc.
+- [free5gc-cli](https://github.com/shynuu/free5gc-cli) - An interactive CLI for free5gc.
 - [free5gmano](https://github.com/free5gmano/free5gmano) - This is a 5G MANO (Management and Network Orchestration) project developed that refer to 3GPP TS 28.531, TS 28.532 Release 15 (R15).
 - [my5G-core](https://github.com/my5G/my5G-core) - Currently, my5G-core is a fork of the free5GC project, with some extensions to facilitate the deployment.
 - [Magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
