@@ -4,6 +4,6 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md,PAPER.md --white-list https://travis-ci.org/calee0219/awesome-5g.svg?branch=main
+  - awesome_bot *.md --white-list https://travis-ci.org/calee0219/awesome-5g.svg?branch=main
 notifications:
   email: false
