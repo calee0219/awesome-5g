@@ -9,6 +9,7 @@ Some interested 5G related paper.
 - [CoNTe: A Core Network Temporal Blockchain for 5G](https://www.mdpi.com/1424-8220/20/18/5281) - Steven Platt, Luis Sanabria-Russo, Miquel Oliver | MDPI 2020.
 - [Open, Programmable, and Virtualized 5G Networks: State-of-the-Art and the Road Ahead](https://arxiv.org/pdf/2005.10027.pdf) - Leonardo Bonati, Michele Polese, Salvatore D’Oro, Stefano Basagni, Tommaso Melodia.
 - [Prototyping an eBPF-based 5G Mobile Gateway](https://webthesis.biblio.polito.it/15302/) - Federico Parola, Fulvio Risso, Sebastiano Miano
+- [Rollback-Recovery for Middleboxes](https://dl.acm.org/doi/10.1145/2829988.2787501) - Justine Sherry, Peter Xiang Gao, Soumya  Basu, Aurojit Panda, Arvind  Krishnamurthy, Christian  Maciocco, Maziar  Manesh, João Martins, Sylvia Paul Ratnasamy, Luigi  Rizzo, Scott J. Shenker | SIGCOMM 2015
 
 ## Whitepaper
 
