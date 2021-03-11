@@ -73,6 +73,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## NFs
 
+- [OpenUPF](https://github.com/5GOpenUPF/openupf) - A 3GPP R16 compliant open source 5G core UPF (User Plane Function). 
 - [UPF-EPC](https://github.com/omec-project/upf-epc) - 4G/5G Mobile core user plane.
 - [upg-vpp](https://github.com/travelping/upg-vpp) - User Plane Gateway (UPG) based on VPP.
 - [upf-xdp](https://github.com/801room/upf-xdp) - It is just a toy, but it shows the possibility of using xdp to implement 5g upf.
