@@ -50,7 +50,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [5GCore](https://github.com/dukl/5gCore) - 5G system writen in python.
 - [free5GC](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15.
 - [Internship-5GCN](https://github.com/bubblecounter/Internship-5GCN) - Implementation of RESTful Web Services between 5G Control Plane Nodes(AMF,NRF,SMF,UDM).
-- [OAI-CN](https://github.com/openairinterface) - This project implements 4G LTE Evolved Packet Core (EPC) and 5G Core Network.
+- [OAI-CN](https://gitlab.eurecom.fr/oai/cn5g) - This project implements a 4G LTE Evolved Packet Core (EPC) and 5G Core Network.
 - [open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation of 5GC and EPC, i.e. the core network of NR/LTE network (Release-16).
 
 ## Platforms
