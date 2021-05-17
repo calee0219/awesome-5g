@@ -140,6 +140,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 ## Tools
 
 - [3gpp.guru](https://3gpp.guru) - Look up 3GPP abbreviations.
+- [3GPP Bibtex entry generator](https://github.com/martisak/3gpp-citations) - Generate .bib-file for 3GPP specifications.
 - [5G Trace Visualizer](https://github.com/telekom/5g-trace-visualizer) - Tools to generate call flows from pcap.
 - [5GC_APIs](https://github.com/jdegre/5GC_APIs) - RESTful APIs of main Network Functions in the 3GPP 5G Core Network.
 - [5G_ciphered_NAS_decipher_tool](https://github.com/jimtangshfx/5G_ciphered_NAS_decipher_tool) - A python tool to decipher/decrypt 5G ciphered NAS message and export plain 5G NAS into wireshark pcap file.
@@ -156,6 +157,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [5G-Core-gRPC-SBA](https://github.com/iithnewslab/SBA-gRPC-5G) - This repository is the proof of concept for Service Based Architecture of 5G using gRPC.
 - [5GMdata](https://github.com/lasseufpa/5gm-data) - Datasets and code for machine learning in 5G mmWave MIMO systems involving mobility (5GMdata).
 - [Beamformed Fingerprint Learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions - with high accuracy and energy efficiency.
+- [Network Function Framework for Go (former YANFF)](https://github.com/intel-go/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF).
 - [SliceSim](https://github.com/cerob/slicesim) - 5G Network Slicing Simulation.
 - [Sub-6 Predicts mmWave Beam-forming Vectors](https://github.com/malrabeiah/Sub6-Preds-mmWave) - Using sub-6 GHz channels to predict mmWave beams and link blockage.
 
