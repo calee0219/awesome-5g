@@ -102,6 +102,10 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## Protocols
 
+### eap-5g
+
+- [strongswan-eap-5g-plugin](https://github.com/syujy/strongswan-eap-5g-plugin) - EAP-5g plugin for strongswan.
+
 ### GTP
 
 - [dpdk_gtp_gateway](https://github.com/edingroot/dpdk_gtp_gateway) - DPDK based GTPv1 gateway.
