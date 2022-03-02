@@ -47,7 +47,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## Core Network
 
-- [5GCore](https://github.com/dukl/5gCore) - 5G system writen in python.
+- [5GCore](https://github.com/dukl/5gCore) - 5G system written in python.
 - [free5GC](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15.
 - [Internship-5GCN](https://github.com/bubblecounter/Internship-5GCN) - Implementation of RESTful Web Services between 5G Control Plane Nodes(AMF,NRF,SMF,UDM).
 - [OAI-CN](https://gitlab.eurecom.fr/oai/cn5g) - This project implements a 4G LTE Evolved Packet Core (EPC) and 5G Core Network.
