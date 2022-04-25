@@ -74,7 +74,8 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## NFs
 
-- [OpenUPF](https://github.com/5GOpenUPF/openupf) - A 3GPP R16 compliant open source 5G core UPF (User Plane Function). 
+- [omec-project/upf](https://github.com/omec-project/upf) - This UPF implementation is actively used as part of the Aether platform in conjunction with the SD-Core mobile core control plane.
+- [OpenUPF](https://github.com/5GOpenUPF/openupf) - A 3GPP R16 compliant open source 5G core UPF (User Plane Function).
 - [UPF-EPC](https://github.com/omec-project/upf-epc) - 4G/5G Mobile core user plane.
 - [up4](https://github.com/omec-project/up4) - ONOS app and P4 program abstracting a network of switches as one big 4G/5G UPF.
 - [upg-vpp](https://github.com/travelping/upg-vpp) - User Plane Gateway (UPG) based on VPP.
