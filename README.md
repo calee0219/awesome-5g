@@ -159,6 +159,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [MCC_MNC](https://github.com/P1sec/MCC_MNC) - Providing accurate JSON and Python dicts about the many public information available about MNO.
 - [MilenageTest](https://github.com/jimtangshfx/MilenageTest) - 3G/4G/5G authentication test troubleshooting tool.
 - [New Radio 5G Physical layer utilities](https://github.com/prtkmishra/New_Radio_5G_Utils) - This repository contains Physical layer utilities based on 3GPP specs for NR 5G.
+- [nrarfcn](https://github.com/blevic/nrarfcn) - A 5G NR-ARFCN calculator, as a Python package
 - [pysim5g](https://github.com/edwardoughton/pysim5g) - Open-source techno-economic assessment framework for 5G deployment.
 - [speX](https://github.com/CoRfr/spex-3gpp) - A WebService to deliver 3GPP specifications.
 
