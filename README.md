@@ -65,6 +65,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [free5gmano](https://github.com/free5gmano/free5gmano) - This is a 5G MANO (Management and Network Orchestration) project developed that refer to 3GPP TS 28.531, TS 28.532 Release 15 (R15).
 - [my5G-core](https://github.com/my5G/my5G-core) - Currently, my5G-core is a fork of the free5GC project, with some extensions to facilitate the deployment.
 - [Magma](https://github.com/magma/magma) - Platform for building access networks and modular network services.
+- [Magma Orchestrator](https://github.com/ShubhamTatvamasi/magma-galaxy) - Ansible Deployment for Magma Orchestrator.
 - [ONAP](https://www.onap.org/) - Open Network Automation Platform.
 - [Open Source MANO](https://osm.etsi.org/) - OSM is delivering an open source Management and Orchestration (MANO) stack aligned with ETSI NFV Information Models.
 - [openNetVM](https://github.com/sdnfv/openNetVM) - A high performance container-based NFV platform from GW and UCR.
