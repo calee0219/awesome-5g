@@ -86,6 +86,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [upf_p4_poc](https://github.com/801room/upf_p4_poc) - This project is a proof of concept for 5g upf based on p4.
 - [vpp](https://github.com/travelping/vpp) - 5G User Plane Function (UPF) based on VPP.
 - [upf-bpf](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
+- [NextMN-UPF](https://github.com/louisroyer/nextmn-upf) - An experimental 5G UPF implementation
 
 ## Edge/Applications
 
