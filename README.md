@@ -40,6 +40,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 ## RAN
 
 - [free5GRAN](https://github.com/free5G/free5GRAN) - free5GRAN is an open-source 5G RAN stack.
+- [gNBSim](https://github.com/omec-project/gnbsim) = Open source simulation software for 5G Core testing
 - [gnbsim](https://github.com/hhorai/gnbsim) - gnbsim is a 5G SA gNB/UE simulator for testing 5GC system. (The origin repo has been deleted. You can find [backup here](AlohaLuo/gnbsim-backup). Refer to [issue#9](../../issues/9).)
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/) - The project implements 4G LTE and 5G Radio Access Network. Both NodeB and User Equipment (UE) are implemented.
 - [pfm](https://github.com/arv-sajeev/pfm) - DPDK implementation of a prototype on gNB-CU-UP.
@@ -79,6 +80,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [omec-project/upf](https://github.com/omec-project/upf) - This UPF implementation is actively used as part of the Aether platform in conjunction with the SD-Core mobile core control plane.
 - [OpenUPF](https://github.com/5GOpenUPF/openupf) - A 3GPP R16 compliant open source 5G core UPF (User Plane Function).
+- [SD-Core](https://docs.sd-core.opennetworking.org/master/index.html) - Open Source 5G Network Functions orchestrated through Kubernetes
 - [UPF-EPC](https://github.com/omec-project/upf-epc) - 4G/5G Mobile core user plane.
 - [up4](https://github.com/omec-project/up4) - ONOS app and P4 program abstracting a network of switches as one big 4G/5G UPF.
 - [upg-vpp](https://github.com/travelping/upg-vpp) - User Plane Gateway (UPG) based on VPP.
