@@ -181,4 +181,6 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 - [3gpp-documentation](https://github.com/emanuelfreitas/3gpp-documentation) - 3GPP Documentation.
 - [5G Mobile Networks: A Systems Approach](https://github.com/SystemsApproach/5G) - Open source eBook for 5G system.
+- [nickel0/3GPP-Overall-Architecture](https://github.com/nickel0/3GPP-Overall-Architecture) - 3GPP Overall Architecture and Specifications including 2G, 3G, 4G, and 5G Systems up to Release-17.
 - [vigp/awesome-5g](https://github.com/vigp/awesome-5g) - Knowledge base for 5G wireless.
+
