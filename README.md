@@ -77,6 +77,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## NFs
 
+- [NextMN-UPF](https://github.com/louisroyer/nextmn-upf) - An experimental 5G UPF implementation
 - [omec-project/upf](https://github.com/omec-project/upf) - This UPF implementation is actively used as part of the Aether platform in conjunction with the SD-Core mobile core control plane.
 - [OpenUPF](https://github.com/5GOpenUPF/openupf) - A 3GPP R16 compliant open source 5G core UPF (User Plane Function).
 - [UPF-EPC](https://github.com/omec-project/upf-epc) - 4G/5G Mobile core user plane.
@@ -86,7 +87,6 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [upf_p4_poc](https://github.com/801room/upf_p4_poc) - This project is a proof of concept for 5g upf based on p4.
 - [vpp](https://github.com/travelping/vpp) - 5G User Plane Function (UPF) based on VPP.
 - [upf-bpf](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
-- [NextMN-UPF](https://github.com/louisroyer/nextmn-upf) - An experimental 5G UPF implementation
 
 ## Edge/Applications
 
