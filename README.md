@@ -43,6 +43,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [gNBSim](https://github.com/omec-project/gnbsim) = Open source simulation software for 5G Core testing
 - [gnbsim](https://github.com/hhorai/gnbsim) - gnbsim is a 5G SA gNB/UE simulator for testing 5GC system. (The origin repo has been deleted. You can find [backup here](AlohaLuo/gnbsim-backup). Refer to [issue#9](../../issues/9).)
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/) - The project implements 4G LTE and 5G Radio Access Network. Both NodeB and User Equipment (UE) are implemented.
+- [PacketRusher](https://github.com/HewlettPackard/PacketRusher) - High performance 5G UE/gNB Simulator and CP/UP load tester. From Valentin D'Emmanuele - France.
 - [pfm](https://github.com/arv-sajeev/pfm) - DPDK implementation of a prototype on gNB-CU-UP.
 - [srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS).
 - [UERANSIM](https://github.com/aligungr/UERANSIM) - Open source 5G UE and RAN (gNodeB) implementation. 
