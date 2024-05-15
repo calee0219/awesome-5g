@@ -30,8 +30,8 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 
 ## SIM
 
-- [pysim](https://github.com/osmocom/pysim) - A python tool to program SIMs.
-- [sysmo-usim-tool](https://gitea.sysmocom.de/sysmocom/sysmo-usim-tool/) - Tool to (re)configure the sysmoUSIM-SJS1 cards.
+- [pysim](https://github.com/osmocom/pysim) - A set of python tools to read, decode, explore write and program SIM/UICC/USIM/ISIM.
+- [sysmo-usim-tool](https://gitea.sysmocom.de/sysmocom/sysmo-usim-tool/) - Tool to (re)configure the sysmoUSIM-SJS1, and sysmoISIM-SJA2 cards.
 
 ## UE/CPE
 
