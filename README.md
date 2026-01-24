@@ -168,6 +168,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [nrarfcn](https://github.com/blevic/nrarfcn) - A 5G NR-ARFCN calculator, as a Python package
 - [OpenAPI Dissector](https://github.com/telekom/OpenAPI-Dissector) - OpenAPI dissector for Wireshark to analyse and verify 5G core network traffic.
 - [OpenMobileNetworkToolkit (OMNT)](https://github.com/omnt/OpenMobileNetworkToolkit) - Toolkit for collecting mobile network signal characteristics, running network performance tests and providing deep insights into configurable settings for Android phones.
+- [NullKia](https://github.com/bad-antics/nullkia) - Mobile security framework with 5G/LTE cellular security tools, eSIM research, IMSI analysis, and baseband exploitation for 18 manufacturers.
 - [pysim5g](https://github.com/edwardoughton/pysim5g) - Open-source techno-economic assessment framework for 5G deployment.
 - [speX](https://github.com/CoRfr/spex-3gpp) - A WebService to deliver 3GPP specifications.
 - [5GCoreNetSDK](https://github.com/5GCoreNet/5GCoreNetSDK) - 5GCoreNetSDK is a fully-featured Golang SDK for developing inside 5GC (Release-18).
