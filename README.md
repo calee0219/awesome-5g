@@ -56,6 +56,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [Internship-5GCN](https://github.com/bubblecounter/Internship-5GCN) - Implementation of RESTful Web Services between 5G Control Plane Nodes(AMF,NRF,SMF,UDM).
 - [OAI-CN](https://gitlab.eurecom.fr/oai/cn5g) - This project implements a 4G LTE Evolved Packet Core (EPC) and 5G Core Network.
 - [open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation of 5GC and EPC, i.e. the core network of NR/LTE network (Release-16).
+- [UnifyAir-Core](https://github.com/UnifyAir/unifyair-core) - 5G Core Network implementation in Rust based on 3GPP release 17 (under development).
 
 ## Platforms
 
