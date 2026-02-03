@@ -78,6 +78,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [towards5GS-helm](https://github.com/Orange-OpenSource/towards5gs-helm) - Provide helm charts in order deploy on one click a 5G system on top of Kubernetes.
 - [x-k8s](https://github.com/ITRI-ICL-Peregrine/x-k8s) - ITRI's Kubernetes platform for 5G Edge VNF.
 - [Zato](https://zato.io/en/industry/telecom/index.html) - Python-based, open-source platform for orchestration, automation and integrations of APIs or hardware assets.
+- [free5GC Helm](https://github.com/free5gc/free5gc-helm) - helm chart(s) for deploying free5GC on Kubernetes (maintained by free5GC team).
 
 ## NFs
 
@@ -193,4 +194,5 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [5G Mobile Networks: A Systems Approach](https://github.com/SystemsApproach/5G) - Open source eBook for 5G system.
 - [nickel0/3GPP-Overall-Architecture](https://github.com/nickel0/3GPP-Overall-Architecture) - 3GPP Overall Architecture and Specifications including 2G, 3G, 4G, and 5G Systems up to Release-17.
 - [vigp/awesome-5g](https://github.com/vigp/awesome-5g) - Knowledge base for 5G wireless.
+- [free5GLab](https://github.com/ianchen0119/free5GLab) - Learn how to develop 5G Network Function from scratch.
 
