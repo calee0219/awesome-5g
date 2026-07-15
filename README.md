@@ -75,6 +75,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [openNetVM](https://github.com/sdnfv/openNetVM) - A high performance container-based NFV platform from GW and UCR.
 - [opnfv](https://www.opnfv.org/) - Open Platform for NFV (OPNFV) facilitates the development and evolution of NFV components across various open source ecosystems.
 - [Polycube](https://github.com/polycube-network/polycube) - eBPF/XDP-based software framework for fast network services running in the Linux kernel.
+- [Rapid5GS](https://github.com/joshualambert/rapid5gs) - One-command installer for the Open5GS EPC/5GC on Debian, with systemd services and a live throughput monitor.
 - [towards5GS-helm](https://github.com/Orange-OpenSource/towards5gs-helm) - Provide helm charts in order deploy on one click a 5G system on top of Kubernetes.
 - [x-k8s](https://github.com/ITRI-ICL-Peregrine/x-k8s) - ITRI's Kubernetes platform for 5G Edge VNF.
 - [Zato](https://zato.io/en/industry/telecom/index.html) - Python-based, open-source platform for orchestration, automation and integrations of APIs or hardware assets.
