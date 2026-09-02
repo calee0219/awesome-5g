@@ -165,6 +165,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [5GC build](https://github.com/H21lab/5GC_build) - Project to use OpenAPI generators to build code from 5GC_API.
 - [5g ldpc codes](https://github.com/xiaoshaoning/5g-ldpc) - 5g ldpc codes.
 - [5g-sharp-orchestrator](https://github.com/Ethon-Shield/5g-sharp-orchestrator) - tool that serves as a comprehensive wrapper for configuring, deploying and monitoring 5G open-source network components, simplifying the orchestration process.
+- [HiCellTek NR PRB Interference Visualizer](https://github.com/tsebai/nr-prb-interference-visualizer) - A browser-only TypeScript tool for visualizing CSV and XLSX 5G NR PRB interference counters as heatmaps and per-PRB statistics.
 - [LoxiLB](https://github.com/loxilb-io/loxilb) - eBPF-based cloud native load balancer, designed for 5G workloads.
 - [MCC_MNC](https://github.com/P1sec/MCC_MNC) - Providing accurate JSON and Python dicts about the many public information available about MNO.
 - [MilenageTest](https://github.com/jimtangshfx/MilenageTest) - 3G/4G/5G authentication test troubleshooting tool.
