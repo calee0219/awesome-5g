@@ -46,7 +46,8 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [PacketRusher](https://github.com/HewlettPackard/PacketRusher) - High performance 5G UE/gNB Simulator and CP/UP load tester. From Valentin D'Emmanuele - France.
 - [pfm](https://github.com/arv-sajeev/pfm) - DPDK implementation of a prototype on gNB-CU-UP.
 - [srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS).
-- [UERANSIM](https://github.com/aligungr/UERANSIM) - Open source 5G UE and RAN (gNodeB) implementation. 
+- [UERANSIM](https://github.com/aligungr/UERANSIM) - Open source 5G UE and RAN (gNodeB) implementation.
+- [free-ran-ue](https://github.com/free-ran-ue/free-ran-ue) - Next-generation open-source 5G RAN/UE simulator for free5GC.
 
 ## Core Network
 
