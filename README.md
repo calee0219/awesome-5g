@@ -130,6 +130,7 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 ### SCTP
 
 - [ishidawataru/sctp](https://github.com/ishidawataru/sctp) - SCTP library for the Go programming language.
+- [jetson-kernel-sctp](https://github.com/promaaa/jetson-kernel-sctp) - Reproducible SCTP-enabled kernel build for the NVIDIA Jetson Orin Nano (JetPack 6.2.1), installed beside the stock kernel.
 - [pion/sctp](https://github.com/pion/sctp) - A Go implementation of SCTP.
 - [sctp-go](https://github.com/thebagchi/sctp-go) - SCTP Library for golang.
 - [usrsctp](https://github.com/sctplab/usrsctp) - A portable SCTP userland stack.
