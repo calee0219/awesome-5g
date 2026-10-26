@@ -182,7 +182,8 @@ Consult [awesome-telco](https://github.com/ravens/awesome-telco) for more genera
 - [5G-Core-gRPC-SBA](https://github.com/iithnewslab/SBA-gRPC-5G) - This repository is the proof of concept for Service Based Architecture of 5G using gRPC.
 - [5GMdata](https://github.com/lasseufpa/5gm-data) - Datasets and code for machine learning in 5G mmWave MIMO systems involving mobility (5GMdata).
 - [Beamformed Fingerprint Learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions - with high accuracy and energy efficiency.
-- [DeepCoMP](https://github.com/CN-UPB/DeepCoMP) - Dynamic multi-cell selection for cooperative multipoint (CoMP) using (multi-agent) deep reinforcement learning 
+- [DeepCoMP](https://github.com/CN-UPB/DeepCoMP) - Dynamic multi-cell selection for cooperative multipoint (CoMP) using (multi-agent) deep reinforcement learning
+- [HandoverLab](https://github.com/mjs19971997/handoverlab) - System-level Python simulator for 5G/6G handover research (A3, CHO, DAPS, LTM, NTN) with a bridge to ns-3 / 5G-LENA.
 - [mobile-env](https://github.com/stefanbschneider/mobile-env) - An open, minimalist Gym environment for autonomous coordination in wireless mobile networks
 - [Network Function Framework for Go (former YANFF)](https://github.com/intel-go/nff-go) - NFF-Go -Network Function Framework for GO (former YANFF).
 - [SliceSim](https://github.com/cerob/slicesim) - 5G Network Slicing Simulation.
